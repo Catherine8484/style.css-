@@ -25,4 +25,17 @@ height: 70px;
 
 }
 
+.logo{
+color: #ff70200
+font-size: 35px;
+font-family: Arial, Helvitica, sans-serif;
+padding-left: 20px;
+float: left;
+padding-top: 10px;
+
+
+
+
+}
+
 
